@@ -68,19 +68,19 @@ header img{
 }
 
 .setas img{
-    width: 80px;
+    width: 40px;
 }
 
 .seta-left{
     position: relative;
     top: 300px;
-    left: 20px;
+    left: 50px;
 }
 
 .seta-right{
     position: relative;
     top: 300px;
-    left: 89%;
+    left: 92%;
 }
 
 /* SECTION 2 */
@@ -100,7 +100,7 @@ header img{
     background-color: #EEEEEE;
     display: flex;
     flex-direction: column;
-
+    box-shadow: 0 0 1em rgb(92, 92, 92);
 }
 
 .banner-medium{
@@ -211,3 +211,4 @@ footer .social-medias img{
     margin-right: 30px;
     cursor: pointer;
 }
+
